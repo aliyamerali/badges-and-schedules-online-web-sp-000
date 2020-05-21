@@ -23,5 +23,5 @@ def printer(names)
   end
 end
 
-# names = ["aliya", "tanner", "futuredoggo"]
-# printer(names)
+names = ["aliya", "tanner", "futuredoggo"]
+printer(names)
